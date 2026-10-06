@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for ClickUp.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit ClickUp on SOFTGIT](https://softgit.pro/p/clickup)** — the full listing.
+- 📄 **[ClickUp web page](https://levelhoopoerafter.github.io/clickup-download/)** — standalone info page.
+- 🗂️ [More Business software](https://softgit.pro/category/business)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for ClickUp. Third-party software; all rights belong to the original authors.
